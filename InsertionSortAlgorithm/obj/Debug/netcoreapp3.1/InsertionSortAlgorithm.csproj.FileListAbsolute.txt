@@ -1,0 +1,14 @@
+C:\Users\abdel\Desktop\Algorithms\InsertionSortAlgorithm\bin\Debug\netcoreapp3.1\InsertionSortAlgorithm.exe
+C:\Users\abdel\Desktop\Algorithms\InsertionSortAlgorithm\bin\Debug\netcoreapp3.1\InsertionSortAlgorithm.deps.json
+C:\Users\abdel\Desktop\Algorithms\InsertionSortAlgorithm\bin\Debug\netcoreapp3.1\InsertionSortAlgorithm.runtimeconfig.json
+C:\Users\abdel\Desktop\Algorithms\InsertionSortAlgorithm\bin\Debug\netcoreapp3.1\InsertionSortAlgorithm.runtimeconfig.dev.json
+C:\Users\abdel\Desktop\Algorithms\InsertionSortAlgorithm\bin\Debug\netcoreapp3.1\InsertionSortAlgorithm.dll
+C:\Users\abdel\Desktop\Algorithms\InsertionSortAlgorithm\bin\Debug\netcoreapp3.1\InsertionSortAlgorithm.pdb
+C:\Users\abdel\Desktop\Algorithms\InsertionSortAlgorithm\obj\Debug\netcoreapp3.1\InsertionSortAlgorithm.csproj.AssemblyReference.cache
+C:\Users\abdel\Desktop\Algorithms\InsertionSortAlgorithm\obj\Debug\netcoreapp3.1\InsertionSortAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdel\Desktop\Algorithms\InsertionSortAlgorithm\obj\Debug\netcoreapp3.1\InsertionSortAlgorithm.AssemblyInfoInputs.cache
+C:\Users\abdel\Desktop\Algorithms\InsertionSortAlgorithm\obj\Debug\netcoreapp3.1\InsertionSortAlgorithm.AssemblyInfo.cs
+C:\Users\abdel\Desktop\Algorithms\InsertionSortAlgorithm\obj\Debug\netcoreapp3.1\InsertionSortAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\abdel\Desktop\Algorithms\InsertionSortAlgorithm\obj\Debug\netcoreapp3.1\InsertionSortAlgorithm.dll
+C:\Users\abdel\Desktop\Algorithms\InsertionSortAlgorithm\obj\Debug\netcoreapp3.1\InsertionSortAlgorithm.pdb
+C:\Users\abdel\Desktop\Algorithms\InsertionSortAlgorithm\obj\Debug\netcoreapp3.1\InsertionSortAlgorithm.genruntimeconfig.cache
